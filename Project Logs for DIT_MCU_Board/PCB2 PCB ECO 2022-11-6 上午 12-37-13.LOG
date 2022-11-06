@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=P14 Old Footprint=HDRV2W66P0X254_1X2_762X572X1003P New Footprint=SHDRRA2W64P0X254_1X2_508X1150X595P
+Change Component Comment : Designator=P14 Old Comment=640454-2 New Comment=61900219521
+Change component parameters: Designator = "P14" ("P14"); Footprint = "HDRV2W66P0X254_1X2_762X572X1003P"; UniqueID = "\QTFNHEEZ" ("\QTFNHEEZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/61900219521.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61900219521"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61900219521"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61900219521?qs=W%252B2sBeLta1aXbrC28D3FtA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"

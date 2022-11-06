@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=V5a Pin=C20-1
+Removed Pin From Net: NetName=V5a Pin=C21-1
+Removed Pin From Net: NetName=V5a Pin=U2-3
+Added Component: Designator=P?(HDRV2W66P0X254_1X2_762X572X1003P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/0152b3901a0ba380c7a54e62cba96e15.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.03mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "640454-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=VIN5 Pin=C20-1
+Added Pin To Net: NetName=VIN5 Pin=C21-1
+Added Pin To Net: NetName=VIN5 Pin=P?-2
+Added Pin To Net: NetName=VIN5 Pin=U2-3
+Added Net: Name=VIN5
+Added Member To Class: ClassName=MCU_board_2 Member=Component C23 0.1uF
+Added Member To Class: ClassName=MCU_board_2 Member=Component C24 0.1uF
+Added Member To Class: ClassName=MCU_board_2 Member=Component P? 640454-2

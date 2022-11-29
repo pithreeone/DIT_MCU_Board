@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=NetP7_5 Pin=P9-4
+Removed Pin From Net: NetName=GND Pin=P14-1
+Removed Pin From Net: NetName=NetP7_5 Pin=R9-1
+Removed Pin From Net: NetName=NetP4_2 Pin=R22-2
+Removed Pin From Net: NetName=NetP4_3 Pin=R23-2
+Removed Pin From Net: NetName=NetP10_4 Pin=U1-34
+Removed Pin From Net: NetName=NetP10_3 Pin=U1-35
+Removed Pin From Net: NetName=NetP12_4 Pin=U1-81
+Removed Pin From Net: NetName=NetP12_3 Pin=U1-82
+Removed Pin From Net: NetName=NetP9_3 Pin=U1-110
+Removed Pin From Net: NetName=NetP11_3 Pin=U1-134
+Removed Pin From Net: NetName=NetP11_4 Pin=U1-135
+Added Component: Designator=U6(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SN74HC126D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74hc126d/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74hc126"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74HC126D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74HC126D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74HC126D?qs=FM6NhYOeeBWM0b9Ig2w%252BaQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SN74HC126D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74hc126d/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74hc126"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74HC126D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74HC126D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74HC126D?qs=FM6NhYOeeBWM0b9Ig2w%252BaQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V5a Pin=C20-1
+Added Pin To Net: NetName=V5a Pin=C21-1
+Added Pin To Net: NetName=V5a Pin=C25-1
+Added Pin To Net: NetName=V5a Pin=C26-1
+Added Pin To Net: NetName=V5a Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=V5a Pin=R7-1
+Added Pin To Net: NetName=V5a Pin=R8-1
+Added Pin To Net: NetName=V5a Pin=R17-1
+Added Pin To Net: NetName=NetP4_3 Pin=R22-2
+Added Pin To Net: NetName=NetP4_2 Pin=R23-2
+Added Pin To Net: NetName=V5a Pin=U2-3
+Added Pin To Net: NetName=V5a Pin=U3-7
+Added Pin To Net: NetName=V5a Pin=U6-1
+Added Pin To Net: NetName=NetP9_3 Pin=U6-2
+Added Pin To Net: NetName=V5a Pin=U6-4
+Added Pin To Net: NetName=NetP7_5 Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=NetP10_4 Pin=U6-9
+Added Pin To Net: NetName=V5a Pin=U6-10
+Added Pin To Net: NetName=NetP10_3 Pin=U6-12
+Added Pin To Net: NetName=V5a Pin=U6-13
+Added Pin To Net: NetName=V5a Pin=U6-14
+Added Pin To Net: NetName=V5a Pin=U7-1
+Added Pin To Net: NetName=NetP11_3 Pin=U7-2
+Added Pin To Net: NetName=V5a Pin=U7-4
+Added Pin To Net: NetName=NetP11_4 Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=NetP12_4 Pin=U7-9
+Added Pin To Net: NetName=V5a Pin=U7-10
+Added Pin To Net: NetName=NetP12_3 Pin=U7-12
+Added Pin To Net: NetName=V5a Pin=U7-13
+Added Pin To Net: NetName=V5a Pin=U7-14
+Change Net Name : Old Net Name=V5a New Net Name=V5
+Added Pin To Net: NetName=NetP9_4 Pin=P9-4
+Added Pin To Net: NetName=NetP9_4 Pin=R9-1
+Added Pin To Net: NetName=NetP9_4 Pin=U6-5
+Added Net: Name=NetP9_4
+Added Pin To Net: NetName=NetU1_34 Pin=U1-34
+Added Pin To Net: NetName=NetU1_34 Pin=U6-8
+Added Net: Name=NetU1_34
+Added Pin To Net: NetName=NetU1_35 Pin=U1-35
+Added Pin To Net: NetName=NetU1_35 Pin=U6-11
+Added Net: Name=NetU1_35
+Added Pin To Net: NetName=NetU1_81 Pin=U1-81
+Added Pin To Net: NetName=NetU1_81 Pin=U7-8
+Added Net: Name=NetU1_81
+Added Pin To Net: NetName=NetU1_82 Pin=U1-82
+Added Pin To Net: NetName=NetU1_82 Pin=U7-11
+Added Net: Name=NetU1_82
+Added Pin To Net: NetName=NetU1_110 Pin=U1-110
+Added Pin To Net: NetName=NetU1_110 Pin=U6-3
+Added Net: Name=NetU1_110
+Added Pin To Net: NetName=NetU1_134 Pin=U1-134
+Added Pin To Net: NetName=NetU1_134 Pin=U7-3
+Added Net: Name=NetU1_134
+Added Pin To Net: NetName=NetU1_135 Pin=U1-135
+Added Pin To Net: NetName=NetU1_135 Pin=U7-6
+Added Net: Name=NetU1_135
+Added Member To Class: ClassName=MCU_board_3 Member=Component U6 SN74HC126D
+Added Member To Class: ClassName=MCU_board_3 Member=Component U7 SN74HC126D

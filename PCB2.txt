@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\Ben\Documents\GitHub\GitLocalRepo_AD\DIT_MCU_Board\PCB2.PcbDoc
-Date         : 2022/11/6
-Time         : ¤U¤È 12:22:07
+Date         : 2022/11/29
+Time         : ¤U¤È 10:54:05
 Time Elapsed : 00:00:00
 
 Routing Information
     Routing completion, 100.00%
-    Connections, 205
-    Connections routed, 205
+    Connections, 227
+    Connections routed, 227
     Connections remaining, 0
 count : 4

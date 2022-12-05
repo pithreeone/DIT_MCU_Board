@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=V3.3 Pin=C22-1
+Removed Pin From Net: NetName=V3.3 Pin=LED2-2
+Removed Pin From Net: NetName=V3.3 Pin=U2-2
+Removed Pin From Net: NetName=V3.3 Pin=U2-4
+Added Component: Designator=L3(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "742792691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-742792691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-742792691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V3.3 Pin=L3-2
+Change Net Name : Old Net Name=V3.3 New Net Name=V3.3a
+Added Pin To Net: NetName=V3.3 Pin=C22-1
+Added Pin To Net: NetName=V3.3 Pin=L3-1
+Added Pin To Net: NetName=V3.3 Pin=LED2-2
+Added Pin To Net: NetName=V3.3 Pin=U2-2
+Added Pin To Net: NetName=V3.3 Pin=U2-4
+Added Net: Name=V3.3
+Added Member To Class: ClassName=MCU_board_2 Member=Component L3 742792691

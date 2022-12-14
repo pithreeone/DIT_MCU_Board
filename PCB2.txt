@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\Ben\Documents\GitHub\GitLocalRepo_AD\DIT_MCU_Board\PCB2.PcbDoc
-Date         : 2022/12/5
-Time         : ¤W¤È 09:06:17
+Date         : 2022/12/14
+Time         : ¤U¤È 08:13:07
 Time Elapsed : 00:00:00
 
 Routing Information

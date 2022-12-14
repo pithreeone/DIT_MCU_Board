@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Test Point Report
+Type  : Test Points
 From  : Project [DIT_MCU_Board.PrjPcb]
-   Generated File[PCB2.TXT]
-   Generated File[PCB2.LDP]
-   Generated File[PCB2.DRR]
+   Generated File[Fabrication Testpoint Report for PCB2.ipc]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At ¤W¤È 09:36:47 On 2022/12/5
+Finished Output Generation At ¤W¤È 01:09:09 On 2022/12/15

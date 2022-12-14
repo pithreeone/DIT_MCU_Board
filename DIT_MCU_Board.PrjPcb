@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for DIT_MCU_Board
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -296,10 +296,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for DIT_MCU_Board\PCB2.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for DIT_MCU_Board\Pick Place for PCB2.txt
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -349,7 +345,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for DIT_MCU_Board
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
